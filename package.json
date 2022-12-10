@@ -4,9 +4,9 @@
   "description": "Trying express.js for the first time",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-handlebars": "^3.0.2",
     "mongodb": "^3.2.3",
     "mysql2": "^1.6.5",
